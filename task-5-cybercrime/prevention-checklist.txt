@@ -1,0 +1,7 @@
+To prevent falling victim to the "Reverse Payment" or "Collect Request" scam described in the case study, you can follow this safety checklist:
+
+1.UPI Security ChecklistNever enter your PIN to receive money: A UPI PIN is only required to send money or check your balance, never to receive a credit.2.2.Verify "Collect Requests": If you receive a notification for a "Collect Request," it means money will be deducted from your account if you authorize it.
+3.Ignore "Payment Links" for Credits: Legitimate buyers do not need you to click a link or "authorize" a transaction to send you money.
+4.Check the Transaction Direction: Always read the transaction screen carefully to see if it says "Paying" or "Receiving" before proceeding.
+5.Be Wary of Urgent Demands: Fraudsters often create a sense of urgency to "lock the deal" or "process a refund" to stop you from thinking clearly.
+6.Verify the Identity of the Buyer: Be cautious of buyers who refuse to meet in person and insist on immediate digital payment for physical goods.
